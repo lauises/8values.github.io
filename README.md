@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Might, Liberty, Tradition, Wealth, Peace, Authority, and Progress.
+# Thinking Preferences
+The Thinking Preferences Quiz measures individuals' preferred way of thinking, relating to Analytical, Structural, Social, and Conceptual.
